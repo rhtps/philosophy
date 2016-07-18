@@ -23,3 +23,4 @@ Our Ansible roles can be located on our [Ansible Galaxy page](https://galaxy.ans
 
 ## What does the name mean?
 Offically, nothing. But if you're curious, it comes from Red Hat's stock symbol (RHT) and PS for Public Sector.
+
